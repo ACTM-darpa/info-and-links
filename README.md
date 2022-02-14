@@ -7,3 +7,5 @@ https://github.com/JHUAPL/PACMANs
 UMD/TAMU github page for hybrid climate models: 
 https://awikner.github.io/actm-umd-tamu-prllc/
 
+UExeter/Waterloo github page for TP EWS: 
+https://jabrams23.github.io/UoE-UW-DARPA/
