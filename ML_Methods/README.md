@@ -4,7 +4,7 @@
 ### Relevant links for earth data science
 
 1. Free course from Earthlab on [Earth Data Science](https://www.earthdatascience.org/)
-2. Ebook written by Dr. Ryan Abernathey: (An Introduction to Earth and Environmental Data Science)[https://earth-env-data-science.github.io/intro.html]
+2. Ebook written by Dr. Ryan Abernathey: [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
 2. [Pangeo Ecosystem](https://pangeo.io/): consists of open-source repositories and packages relevant for handling datasets in the earth sciences
 
 ### Common Python Packages used for handling climate/weather data
