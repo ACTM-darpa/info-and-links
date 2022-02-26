@@ -10,5 +10,6 @@ https://awikner.github.io/actm-umd-tamu-prllc/
 UExeter/Waterloo github page for TP EWS: 
 https://jabrams23.github.io/UoE-UW-DARPA/
 
-AiBEDO framework from PARC/University of Victoria github: 
+AiBEDO framework from PARC/University of Victoria github repository: 
 https://github.com/kramea/aibedo/
+AiBEDO documentation page: https://aibedo.readthedocs.io/ 
