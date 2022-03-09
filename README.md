@@ -13,3 +13,5 @@ https://jabrams23.github.io/UoE-UW-DARPA/
 AiBEDO framework from PARC/University of Victoria: [github repository]( 
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
+
+Caltech/Climate Modeling Alliance repositories are open access and available on [GitHub](https://github.com/CliMA). The most relevant repositories are [EnsembleKalmanProcesses.jl](https://github.com/CliMA/EnsembleKalmanProcesses.jl), which is a generic optimizer code with adequate documentation, and [CalibrateEDMF.jl](https://github.com/CliMA/CalibrateEDMF.jl), our experimental wrapper for easy optimization of EDMF models of turbulence and convection.
