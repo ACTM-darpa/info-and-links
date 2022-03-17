@@ -13,3 +13,6 @@ https://jabrams23.github.io/UoE-UW-DARPA/
 AiBEDO framework from PARC/University of Victoria: [github repository]( 
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
+
+BAE HAIKU documentation page (using readthedocs): 
+https://bae-systems-haiku.github.io/HAIKU/
