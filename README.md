@@ -13,3 +13,5 @@ https://jabrams23.github.io/UoE-UW-DARPA/
 AiBEDO framework from PARC/University of Victoria: [github repository]( 
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
+
+HAIKU project from BAE Systems and AIMdyn, inc [documentation page](https://bae-systems-haiku.github.io/HAIKU/). Software is not yet publicly available.
