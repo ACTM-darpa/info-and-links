@@ -14,6 +14,12 @@ AiBEDO framework from PARC/University of Victoria: [github repository](
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
 
+Caltech/Climate Modeling Alliance repositories are open access and available on [GitHub](https://github.com/CliMA). 
+ACTM-related documentation: https://clima.github.io/DARPA-ACTM/dev/
+Most relevant repositories: 
+[EnsembleKalmanProcesses.jl](https://github.com/CliMA/EnsembleKalmanProcesses.jl) -- a generic optimizer code with adequate documentation 
+[CalibrateEDMF.jl](https://github.com/CliMA/CalibrateEDMF.jl) -- our experimental wrapper for easy optimization of EDMF models of turbulence and convection.
+
 HAIKU project from BAE Systems and AIMdyn, inc 
 [documentation page](https://bae-systems-haiku.github.io/HAIKU/). 
 Software is not yet publicly available.
@@ -21,5 +27,3 @@ Software is not yet publicly available.
 Global AI Accelerator (Gaia) from STR/UNSW 
 https://stresearch.github.io/gaia/
 
-Caltech CliMA documentation page with links to repos: 
-https://clima.github.io/DARPA-ACTM/dev/
