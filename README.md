@@ -17,3 +17,8 @@ https://github.com/kramea/aibedo/) and
 Global AI Accelerator (Gaia) from STR/UNSW 
 https://stresearch.github.io/gaia/
 
+BAE HAIKU documentation page (using readthedocs): 
+https://bae-systems-haiku.github.io/HAIKU/
+
+Caltech CliMA documentation page with links to repos: 
+https://clima.github.io/DARPA-ACTM/dev/
