@@ -14,4 +14,12 @@ AiBEDO framework from PARC/University of Victoria: [github repository](
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
 
-HAIKU project from BAE Systems and AIMdyn, inc [documentation page](https://bae-systems-haiku.github.io/HAIKU/). Software is not yet publicly available.
+HAIKU project from BAE Systems and AIMdyn, inc 
+[documentation page](https://bae-systems-haiku.github.io/HAIKU/). 
+Software is not yet publicly available.
+
+Global AI Accelerator (Gaia) from STR/UNSW 
+https://stresearch.github.io/gaia/
+
+Caltech CliMA documentation page with links to repos: 
+https://clima.github.io/DARPA-ACTM/dev/
