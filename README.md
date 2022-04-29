@@ -14,6 +14,9 @@ AiBEDO framework from PARC/University of Victoria: [github repository](
 https://github.com/kramea/aibedo/) and 
 [documentation page](https://aibedo.readthedocs.io/).
 
+Global AI Accelerator (Gaia) from STR/UNSW 
+https://stresearch.github.io/gaia/
+
 BAE HAIKU documentation page (using readthedocs): 
 https://bae-systems-haiku.github.io/HAIKU/
 
