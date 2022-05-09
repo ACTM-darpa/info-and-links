@@ -27,3 +27,5 @@ Software is not yet publicly available.
 Global AI Accelerator (Gaia) from STR/UNSW 
 https://stresearch.github.io/gaia/
 
+MIT Hybrid Methods project
+https://skgitprofile.github.io/DARPA-HybridMethods/
