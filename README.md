@@ -29,3 +29,6 @@ https://stresearch.github.io/gaia/
 
 MIT Hybrid Methods project
 https://skgitprofile.github.io/DARPA-HybridMethods/
+
+Colorado State University - AI Methods for Solar Radiation Management Research
+[github repository of subprojects](https://github.com/eabarnes1010/actm-sai-csu)
