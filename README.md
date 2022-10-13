@@ -22,7 +22,7 @@ Most relevant repositories:
 
 HAIKU project from BAE Systems and AIMdyn, inc 
 [documentation page](https://bae-systems-haiku.github.io/HAIKU/). 
-Software is not yet publicly available.
+[Software repository](https://github.com/BAE-Systems-HAIKU/HAIKU/).
 
 Global AI Accelerator (Gaia) from STR/UNSW 
 https://stresearch.github.io/gaia/
